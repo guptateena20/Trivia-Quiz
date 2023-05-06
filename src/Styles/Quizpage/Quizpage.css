@@ -1,0 +1,69 @@
+.inner_container {
+  height: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-top: 0px;
+}
+.inner_container .questions_container {
+  height: auto;
+  width: 400px;
+}
+.inner_container .questions_container .ques {
+  margin: 15px 0;
+}
+.inner_container .questions_container .ques .para {
+  color: #293264;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 19px;
+}
+.inner_container .questions_container .ques .btn {
+  margin: 10px 5px;
+  padding: 6px;
+  border: 1px solid rgba(0, 0, 0, 0.412);
+  background: #F5F7FB;
+  border-radius: 7.94239px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11.24px;
+  line-height: 12px;
+  color: #293264;
+  cursor: pointer;
+}
+.inner_container .questions_container .ques .color {
+  background-color: #b0b9ea;
+}
+.inner_container .questions_container .ques .green {
+  background-color: rgb(101, 222, 101);
+}
+.inner_container .questions_container .ques .wrong {
+  background-color: rgb(240, 142, 142);
+}
+.inner_container .questions_container .ques hr {
+  border: 0.794239px solid #DBDEF0;
+  margin: 4px 0;
+}
+.inner_container .quizpage_btn_div {
+  text-align: center;
+  margin-top: 20px;
+}
+.inner_container .quizpage_btn_div .quizpage_btn {
+  padding: 10px 45px;
+  border: none;
+  background: #4D5B9E;
+  border-radius: 15px;
+  color: #F5F7FB;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+}
+
+.green {
+  background-color: green;
+}/*# sourceMappingURL=Quizpage.css.map */

@@ -1,0 +1,40 @@
+.inner_div {
+  height: auto;
+  width: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.inner_div .quizzical {
+  color: #293264;
+  font-weight: 700;
+  font-size: 32.25px;
+  line-height: 37px;
+  text-align: center;
+}
+.inner_div .description {
+  text-align: center;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 19px;
+  color: #293264;
+  margin: 10px;
+}
+.inner_div .start_page_btn_div {
+  text-align: center;
+  margin-top: 20px;
+}
+.inner_div .start_page_btn_div .start_page_btn {
+  padding: 15px 45px;
+  border: none;
+  background: #4D5B9E;
+  border-radius: 15px;
+  color: #F5F7FB;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+}/*# sourceMappingURL=StartPage.css.map */

@@ -1,0 +1,29 @@
+.answerpage_footer_div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+
+    .answerpage_footer_para {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12.8px;
+        line-height: 15px;
+        color: #293264;
+    }
+
+
+    .answerpage_btn {
+        padding: 10px 45px;
+        border: none;
+        background: #4D5B9E;
+        border-radius: 15px;
+        color: #F5F7FB;
+        font-weight: 600;
+        font-size: 11px;
+        line-height: 12px;
+        text-align: center;
+        letter-spacing: 0.5px;
+        cursor: pointer;
+    }
+}
